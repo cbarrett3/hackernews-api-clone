@@ -1,4 +1,4 @@
-## Hackernews Clone - API
+## Hackernews API Clone
 
 This is the backend for a hackernews clone I built as a way to learn some new technologies including Express, GraphQL, and Prisma.
 
